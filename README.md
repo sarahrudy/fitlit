@@ -23,6 +23,8 @@ This project:
 ### Technologies Used 
 
 * JavaScript (ECMAScript 2009)
+* HTML5
+* CSS
 * NPM packages/dependencies: 
   * [chart.js](https://www.chartjs.org/)
   * [Webpack](https://www.npmjs.com/package/webpack): a helpful developer tool (npm package we install as a dev dependency)
@@ -75,9 +77,19 @@ Note: You must run both your local server and the fitlit application at the same
 * **Repeat: Refresh the page to see a new user's wellness data!:**  
 
 
+### Snapshot Examples of Responsive Design
+ ###### Please run the application to view the entire dashboard.
+#### [Generate Random User on Page Load Gif: Click to View](https://i.ibb.co/DzZs9hd/short.gif) 
+#### [Responsive Design Gif: Click to View](https://i.ibb.co/vDZpXcZ/mobile-scroll.gif) 
+
+#### Desktop View: 
+![Img](https://i.ibb.co/Kq4Y1tf/Screen-Shot-2021-07-20-at-3-16-06-PM.png)
+#### Mobile View:
+![Img](https://i.ibb.co/JHK42cj/Screen-Shot-2021-07-20-at-2-57-36-PM.png)
+![Img](https://i.ibb.co/XFVmjMW/Screen-Shot-2021-07-20-at-2-57-01-PM.png)
 
 ### Project Challenges 
- * Not having a well laid out plan for how we wanted each piece of our data to display set us back. After much time working to display some data with charts we realized that data might be better shown in a simpler non-comparative format. This set-back helped us to learn that in furture projects it's important to really plan ahead and have a clearly identified goal before jumping in.
+ * Charts.js was a new experience for us. It was helpful to learn how to research and incorporate new technologies into our project. We had to think through which pieces of data would be best displayed using the npm package based on UX principles and wireframes.
  
 ### Project Wins
  * Throughout the project we learned how to divide and conquer in order to come back to productively use our time togther. We learned a lot from the strategy including what productive and well-thought-out solo and paired programming could look like, which included learning and researching concepts before coming together so we could come with well thought-out ideas. We also learned to make the big decisions together and start major pieces of functionality as a team before dividing and conquering.
